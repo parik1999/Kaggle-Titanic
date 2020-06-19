@@ -8,4 +8,4 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (i.e. name, age, gender, socio-economic class, etc).
 
-Here's the link to the [Jupyter Notebook](Notebok.ipynb).
+Here's the link to the [Jupyter Notebook](Notebook.ipynb).
